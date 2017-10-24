@@ -37,7 +37,7 @@
                                     <action selector="btnRotate2:" destination="BYZ-38-t0r" eventType="touchUpInside" id="UTC-i8-wGg"/>
                                 </connections>
                             </button>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Allah.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="PU5-qw-abr">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Allah" translatesAutoresizingMaskIntoConstraints="NO" id="PU5-qw-abr">
                                 <rect key="frame" x="16" y="67" width="343" height="229"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -62,6 +62,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Allah.jpg" width="299" height="168"/>
+        <image name="Allah" width="299" height="168"/>
     </resources>
 </document>
